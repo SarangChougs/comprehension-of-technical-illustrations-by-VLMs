@@ -1,0 +1,11 @@
+transformers
+qwen_vl_utils
+accelerate
+torchvision
+optimum
+auto-gptq
+lmdeploy
+timm
+nest_asyncio
+autoawq
+pytest
