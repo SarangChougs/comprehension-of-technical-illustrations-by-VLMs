@@ -66,11 +66,12 @@ The TICQA dataset is publicly available on HuggingFace:
 
 ## 📄 Project Structure
 
+```
 ├── scripts/ # Scripts to run the evaluation
 ├── result/ # Evaluation results
 ├── report/ # Final report and appendix
 └── README.md
-
+```
 ---
 
 ## 📄 Citation
