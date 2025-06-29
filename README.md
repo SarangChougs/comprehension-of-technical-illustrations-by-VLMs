@@ -1,5 +1,4 @@
-# comprehension-of-technical-illustrations-by-VLMs
-Repository for research project "Comprehension of Technical Illustrations by VLMs"
+
 # 🧠 Evaluating the Comprehension of Technical Illustrations by Visual Language Models
 
 This project introduces **TICQA** (Technical Illustration Comprehension Question Answering), a novel dataset designed to evaluate the ability of Vision-Language Models (VLMs) to understand **technical illustrations**. The study also benchmarks nine VLMs across three visual reasoning tasks and provides a detailed empirical analysis.
